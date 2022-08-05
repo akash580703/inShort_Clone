@@ -1,0 +1,170 @@
+{
+  "project_info": {
+    "project_number": "561664063651",
+    "project_id": "news-beb59",
+    "storage_bucket": "news-beb59.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561664063651:android:efd37f4801084d95a96716",
+        "android_client_info": {
+          "package_name": "com.company.androWallAk"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561664063651-jpp67kr9hd8ba0ctkjkhaurpm3b050e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXuJf4E41YifjN6jfmbb81ESvzf_CXf_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561664063651-jpp67kr9hd8ba0ctkjkhaurpm3b050e0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561664063651-arkg9km3trism452djqomu31du5cls1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.docFire"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561664063651:android:421dd8ef316e6d27a96716",
+        "android_client_info": {
+          "package_name": "com.company.docFire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561664063651-jpp67kr9hd8ba0ctkjkhaurpm3b050e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXuJf4E41YifjN6jfmbb81ESvzf_CXf_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561664063651-jpp67kr9hd8ba0ctkjkhaurpm3b050e0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561664063651-arkg9km3trism452djqomu31du5cls1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.docFire"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561664063651:android:d4566614d9350272a96716",
+        "android_client_info": {
+          "package_name": "com.company.news99"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561664063651-g6850mc7p74o96ja1ditrmnhp4876kv2.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.company.news99",
+            "certificate_hash": "9d9abeff1ca1ca25119029884261521b78bedbf6"
+          }
+        },
+        {
+          "client_id": "561664063651-jpp67kr9hd8ba0ctkjkhaurpm3b050e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXuJf4E41YifjN6jfmbb81ESvzf_CXf_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561664063651-jpp67kr9hd8ba0ctkjkhaurpm3b050e0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561664063651-arkg9km3trism452djqomu31du5cls1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.docFire"
+              }
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:561664063651:android:e623be8fa451a928a96716",
+        "android_client_info": {
+          "package_name": "io.fireship.demoquiz"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "561664063651-qbp8jk0h87dmooktg0vfb0u7e37m7av0.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "io.fireship.demoquiz",
+            "certificate_hash": "9d9abeff1ca1ca25119029884261521b78bedbf6"
+          }
+        },
+        {
+          "client_id": "561664063651-jpp67kr9hd8ba0ctkjkhaurpm3b050e0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBXuJf4E41YifjN6jfmbb81ESvzf_CXf_k"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "561664063651-jpp67kr9hd8ba0ctkjkhaurpm3b050e0.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "561664063651-arkg9km3trism452djqomu31du5cls1i.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.company.docFire"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
