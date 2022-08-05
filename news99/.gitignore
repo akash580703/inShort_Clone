@@ -9,6 +9,7 @@
 .history
 .svn/
 .build/
+.android/
 migrate_working_dir/
 
 # IntelliJ related
